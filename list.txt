@@ -8,6 +8,11 @@ MEAT
 Sausages
 
 DATRY
+milk
+Eggs
+yogur
+butter
+cheese
 
 HOUSEHOLD
 
